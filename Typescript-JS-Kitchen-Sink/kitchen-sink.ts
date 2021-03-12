@@ -2,7 +2,7 @@ let myName: string = "William Taylor Sockwell";
 const states: number = 50
 let sum: number = 5+4
 
-function sayHello(){
+function sayHello(): void{
     alert("Hello World!")
 }
 

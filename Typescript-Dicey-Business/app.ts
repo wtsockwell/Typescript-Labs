@@ -33,7 +33,7 @@ class Die {
 }
 
 $("#makeDie").click(()=>{
-    let die = new Die
+    let die = new Die()
     dice.push(die)
 })
 
